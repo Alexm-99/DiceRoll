@@ -21,6 +21,8 @@ class MainActivity : AppCompatActivity() {
 
             rollDice()
         }
+
+
     }
 
     private fun rollDice() {
